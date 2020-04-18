@@ -1,2 +1,2 @@
-# C-
+# C++
 Programas simples em C++
